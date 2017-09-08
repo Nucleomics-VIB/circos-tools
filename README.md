@@ -6,13 +6,9 @@
 
 Please refer to the accompanying **[wiki](https://github.com/Nucleomics-VIB/circos-tools/wiki)** for examples and workflows.
 
+## Circos Tools
 
-## template
-*[[back-to-top](#top)]*  
-
-Those additional tools belong on a Shiny server and will execute R code in a interactive manner (please refder to https://shiny.rstudio.com/ for info about Shiny).
-
-### **template** 
+### **Scripts and Utilities** 
 
 The **[fai2circoskaryotype.sh](fai2circoskaryotype.sh)** script converts a .fai index into a circos karyotype file.
 
